@@ -1,5 +1,6 @@
 # group_4_project
 
+View the interactive story here: https://public.tableau.com/shared/NSFGDHH6K?:display_count=n&:origin=viz_share_link
 ## Overview
 This company has decided to take up a new challenge, and that is the film industry — and this is what this notebook aims to do. In this notebook is a comprehensive analysis of the top movies across time to get a better sense of what they are getting into.
 ## Business Problem
