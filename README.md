@@ -37,23 +37,19 @@ In this i decided to sample the top 20 genre categories and use 3 of them in her
 
 
 Average Ratings: The top genres include
-1. Adventure, Drama, sci-fi
-2. Action, Comedy, Fantacy
-3. Mystery, sci-fi, thriller
-Average Votes: (this is where most film heads are)
-1. Adventure, Drama, sci-fi
-2. Adventure, mystery, sci-fi
-3. Action, Adventure, sci-fi
-Total Gross
-1. Action, Adventure, sci-fi
-2. Action, Adventure, fantacy
-3. Action, Adventure, Thriller
-4. 
+1. Animation
+2. Sci-Fi
+3. Adventue
+4. mystery
+5. Comedy
+6. Romance
+7. Fantasy
+8. Action
+9. Biography
+10. Family
+
 <img width="1187" height="589" alt="image" src="https://github.com/user-attachments/assets/bce8d7c6-efce-4d8b-bf2c-4abad00c5742" />
 
-3. Trends Over Time
-
-From the above visualisation we can see that Adventure, Animation, Comedy and Action, Adventure, sci-fi have been leading consistently over the span of nine years in terms of gross
 
 4. Runtime of a successful Film
 
@@ -61,7 +57,7 @@ The median of a typical succesful film is:
 
 Median Rating: 7.3
 
-Median Runtime: 126.0
+Median Runtime: 104.0
 
 Median Gross: 1076004500.0
 
@@ -72,17 +68,18 @@ Median Gross: 1076004500.0
 From the results obtained, it is safe to reccomend:
 
 . For the specific category, i highly recomend starting out with a mix the following as they are the most prommising:
-1. Action
-2. Adventure
-3. Sci-Fi
-4. Drama
-5. Fantancy
-6. Thriller
+1. Animation
+2. Sci-Fi
+3. Adventure
+4. Mystery
+5. Comedy
+6. Romance
+7. Action
 . For Runtime of a succesful film they should try and keep their runtime in the range of 120 - 130 minutes
 
 . For a relevant genre they should focus on Adventure, Action, Sci-Fi
 
-Final Recomendation: The data itself testifies that the most promissing places to start is Action Adventure and Sci-Fi.
+Final Recomendation: The data itself testifies that the most promissing places to start is Animation.
 
 
 
