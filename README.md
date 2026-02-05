@@ -28,7 +28,7 @@ Visual analysis: All questions have some form of visualization that is to answer
 ## Results
 The results are based on the four questions above:
 1. Successful studios
-![image1][Notebook_visuals/film studio performance.png](https://github.com/t3ch-N/group_4_project/blob/6c6aff7041cb5bf35a515a4835f92c23c9dd2d7c/Notebook_visuals/film%20studio%20performance.png)
+Notebook_visuals/film studio performance.png
 The above is a figure containing 4 scatter plots divided into two groups and two sub groups:
 
 Total Gross: In this we can see an almost identical correlation between the gross value of a film studio and the number of fils that studio has given out. (Domestic Gross: 0.73, Foreign Gross: 0.72) this suggests that the two have a strong assosiation
