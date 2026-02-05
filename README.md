@@ -13,7 +13,7 @@ There is an abundance of data sources that are in the publc domain in which we c
  . bom.movie_gross
  . tn.movie_budget.tsv
  ## Methods and Exploration
- For an indepth analysis of the dataset, the cleaning and analsysis of the datasets was done in a separate notebook eda/exploration.ipynb as to not make this one long.
+ For an indepth analysis of the dataset, the cleaning and analsysis of the datasets was done in a separate notebook movie_analysis.ipynb as to not make this one long.
 
 In order to explore the data i sought out to find questions that resonate with the bussiness problem at habd and they were:
 
@@ -32,18 +32,9 @@ Visual analysis: All questions have some form of visualization that is to answer
 
 ## Results
 The results are based on the four questions above:
-1. Successful studios
-Notebook_visuals/film studio performance.png
-The above is a figure containing 4 scatter plots divided into two groups and two sub groups:
-
-Total Gross: In this we can see an almost identical correlation between the gross value of a film studio and the number of fils that studio has given out. (Domestic Gross: 0.73, Foreign Gross: 0.72) this suggests that the two have a strong assosiation
-
-Average Gross: In this, they are almost similar but here rather they have a week correlation coeficient (Domestic Gross: 0.14, Foreign Gross: 0.10)
-2. Popular Genres
 
 In this i decided to sample the top 20 genre categories and use 3 of them in here:
 
-The above visualisation contains three plots:
 
 Average Ratings: The top genres include
 1. Adventure, Drama, sci-fi
