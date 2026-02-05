@@ -14,7 +14,7 @@ There is an abundance of data sources that are in the publc domain in which we c
  ## Methods and Exploration
  For an indepth analysis of the dataset, the cleaning and analsysis of the datasets was done in a separate notebook eda/exploration.ipynb as to not make this one long.
 
-Inorder to explore the data i sought out to find questions that resonate with the bussiness problem at habd and they were:
+In order to explore the data i sought out to find questions that resonate with the bussiness problem at habd and they were:
 
 Most successful film studios in the industry
 Most successful genres in the industry
@@ -25,6 +25,10 @@ We used two key methods of analysis on the dataset above:
 Statistical analysis: For certain questions like succesful studios and typical runtime i sought out to use covariance to see what is the success rate of a studio in regards to the number of films produced and median to see the typical runtime of a successful film
 
 Visual analysis: All questions have some form of visualization that is to answer the respective question
+
+<img width="1590" height="1190" alt="image" src="https://github.com/user-attachments/assets/6c8855b0-5473-4bcd-860f-a69869468875" />
+
+
 ## Results
 The results are based on the four questions above:
 1. Successful studios
@@ -52,6 +56,8 @@ Total Gross
 1. Action, Adventure, sci-fi
 2. Action, Adventure, fantacy
 3. Action, Adventure, Thriller
+4. 
+<img width="1187" height="589" alt="image" src="https://github.com/user-attachments/assets/bce8d7c6-efce-4d8b-bf2c-4abad00c5742" />
 
 3. Trends Over Time
 
@@ -66,6 +72,9 @@ Median Rating: 7.3
 Median Runtime: 126.0
 
 Median Gross: 1076004500.0
+
+<img width="1790" height="590" alt="image" src="https://github.com/user-attachments/assets/320c08f9-e4ca-46de-a461-651dffc5b201" />
+
 
 ## Conclusions
 From the results obtained, it is safe to reccomend:
