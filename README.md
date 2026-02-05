@@ -92,5 +92,4 @@ From the results obtained, it is safe to reccomend:
 . For a relevant genre they should focus on Adventure, Action, Sci-Fi
 
 Final Recomendation: The data itself testifies that the most promissing places to start is Action Adventure and Sci-Fi.
-## Tableau Story
-View the interactive story here: https://public.tableau.com/authoring/MovieGenreProfitabilityAnalysis/MovieGenreProfitabilityAnalysis#3 
+
